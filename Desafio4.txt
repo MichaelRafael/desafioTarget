@@ -1,0 +1,13 @@
+Para descobrir qual interruptor controla cada lâmpada, sugiro seguir os seguintes passos:
+
+Ligar um interruptor e deixá-lo ligado por algum tempo.
+Desliguar o interruptor e ligar outro.
+Entrar na sala das lâmpadas.
+
+Ao entrar na sala das lâmpadas, notaremos que:
+
+A lâmpada que está acesa é controlada pelo último interruptor que foi ligada.
+A lâmpada que está desligada e quente é controlada pelo interruptor que ligada e depois desligada.
+A lâmpada que está desligada e fria é controlada pelo interruptor que não foi tocado.
+
+Assim, conseguiremos determinar qual interruptor controla cada lâmpada usando apenas duas idas até a sala das lâmpadas.
